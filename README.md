@@ -28,6 +28,6 @@ Most survey respondents are male (74.29%), indicating a gender gap in the field.
 Kaggle
 
 **📌 How to Use**
-Open the Power BI report (if available).
+Open the Power BI report.
 Interact with filters to explore different insights.
 Use this dashboard for market research, salary benchmarking, and understanding data professionals' preferences.
